@@ -30,4 +30,5 @@ Over the last two years I've built 30+ private AI workflows across content, lead
 Pinned repos will fill in as public releases land. For now, the methodology lives openly at [calumogorman.com](https://calumogorman.com).
 
 [LinkedIn](https://linkedin.com/in/calumogorman) 
+
 [X.com](https://x.com/calumogormanAI)
